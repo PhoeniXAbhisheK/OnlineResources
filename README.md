@@ -25,3 +25,8 @@
 ### Online gradient builder
 
 - https://cssgradient.io/gradient-backgrounds/
+
+### Cheatsheets(That actually help)
+
+- https://github.com/tchapi/markdown-cheatsheet
+- https://github.com/mbeaudru/modern-js-cheatsheet
