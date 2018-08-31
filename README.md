@@ -18,13 +18,10 @@
 - https://egghead.io/
 - https://scotch.io/
 
-### Free images
+### Utilities
 
-- https://source.unsplash.com/
-
-### Online gradient builder
-
-- https://cssgradient.io/gradient-backgrounds/
+- https://source.unsplash.com/ (free images, also has an API)
+- https://cssgradient.io/gradient-backgrounds/ (quick cool gradients, with corresponding css code)
 
 ### Cheatsheets(That actually help)
 
