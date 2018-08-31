@@ -4,7 +4,6 @@
 
 ### Reference/Reading websites :books:
 
-- https://code.tutsplus.com
 - https://tympanus.net/codrops/
 - https://css-tricks.com/
 - https://explainshell.com/
@@ -13,6 +12,7 @@
 
 ### Online Courses/Tutorials
 
+- https://code.tutsplus.com (Thousands of free tutorials and online courses to help you learn software development from mobile devices to web applications and everything in between)
 - https://scrimba.com/
 - https://coderbyte.com/
 - https://egghead.io/
