@@ -22,8 +22,7 @@
 ### Podcasts
 
 - https://syntax.fm/ (Podcast for Web Developers by Wes Bos [@wesbos](https://twitter.com/wesbos) and Scott Tolinski [@stolinski](https://twitter.com/stolinski))
-
-* https://freecodecamp.libsyn.com/
+- https://freecodecamp.libsyn.com/ (Podcast by freeCodeCamp)
 
 ### Utilities
 
