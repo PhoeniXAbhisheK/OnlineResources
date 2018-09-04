@@ -17,6 +17,11 @@
 - https://coderbyte.com/ (WEBSITE FOR CODING CHALLENGES & INTERVIEW PREP)
 - https://egghead.io/ (Video tutorials for badass web developers)
 - https://scotch.io/ (Informative tutorials explaining the code and the choices behind it all)
+- https://cssgridgarden.com/ (learn CSS Grid)
+
+### Podcasts
+
+- https://syntax.fm/ (Podcast for Web Developers by Wes Bos [@wesbos](https://twitter.com/wesbos) and Scott Tolinski [@stolinski](https://twitter.com/stolinski))
 
 ### Utilities
 
