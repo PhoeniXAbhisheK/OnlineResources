@@ -23,6 +23,8 @@
 
 - https://syntax.fm/ (Podcast for Web Developers by Wes Bos [@wesbos](https://twitter.com/wesbos) and Scott Tolinski [@stolinski](https://twitter.com/stolinski))
 - https://freecodecamp.libsyn.com/ (Podcast by freeCodeCamp)
+- https://devchat.tv/js-jabber/ (Javascript professionals discussing front end development, the future of Javascript, careers, and frameworks)
+- https://shoptalkshow.com/ (An internet radio show about the internet starring [Dave Rupert](http://daverupert.com/) and [Chris Coyier](http://chriscoyier.net/))
 
 ### Utilities
 
