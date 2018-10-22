@@ -11,6 +11,9 @@
 - <https://explainshell.com/>
 - <https://medium.com/topic/technology>
 - <https://medium.freecodecamp.org/>
+- <https://developers.google.com/web/fundamentals/>
+- <https://hackernoon.com/>
+- your Twitter feed
 
 ### Online Courses/Tutorials :computer:
 
