@@ -6,13 +6,13 @@
 
 ### Reference/Reading websites :books:
 
+- <https://hackernoon.com/>
+- <https://explainshell.com/>
+- <https://medium.freecodecamp.org/>
+- <https://medium.com/topic/technology>
+- <https://developers.google.com/web/fundamentals/>
 - <https://tympanus.net/codrops/> (web design and development blog)
 - <https://css-tricks.com/> (CSS-Tricks is a site about all things web design and development)
-- <https://explainshell.com/>
-- <https://medium.com/topic/technology>
-- <https://medium.freecodecamp.org/>
-- <https://developers.google.com/web/fundamentals/>
-- <https://hackernoon.com/>
 
 ### Online Courses/Tutorials :computer:
 
@@ -51,7 +51,8 @@
 
 - <https://source.unsplash.com/> (free images, also has an API)
 - <https://cssgradient.io/gradient-backgrounds/> (quick cool gradients, with corresponding css code)
-- <https://github.com/octref/polacode> (Polacode: Polaroid for your code)
+- <https://github.com/octref/polacode/> (Polacode: Polaroid for your code)
+- <https://emojipedia.org/> (One-stop solution to all emojis)
 
 ### Cheatsheets(That actually help) :scroll:
 
