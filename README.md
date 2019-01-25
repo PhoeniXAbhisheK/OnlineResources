@@ -43,6 +43,7 @@
 
 - <https://freecodecamp.libsyn.com/> (Podcast by freeCodeCamp)
 - <https://agileleague.com/agile-podcast/> (Design/Dev podcast)
+- <https://darknetdiaries.com/> (True stories from the dark side of the Internet)
 - <https://devchat.tv/js-jabber/> (Javascript professionals discussing front end development, the future of Javascript, careers, and frameworks)
 - <https://syntax.fm/> (Podcast for Web Developers by Wes Bos [@wesbos](https://twitter.com/wesbos) and Scott Tolinski [@stolinski](https://twitter.com/stolinski))
 - <https://shoptalkshow.com/> (An internet radio show about the internet starring [Dave Rupert](http://daverupert.com/) and [Chris Coyier](http://chriscoyier.net/))
