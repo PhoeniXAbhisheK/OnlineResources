@@ -12,6 +12,7 @@
 - <https://medium.com/topic/technology>
 - <https://developers.google.com/web/fundamentals/>
 - <https://tympanus.net/codrops/> (web design and development blog)
+- <https://dev.to/> (Where programmers share ideas and help each other grow.)
 - <https://css-tricks.com/> (CSS-Tricks is a site about all things web design and development)
 
 ### Online Courses/Tutorials :computer:
