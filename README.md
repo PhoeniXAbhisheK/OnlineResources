@@ -28,7 +28,7 @@
 
 ### Youtube Channels :movie_camera:
 
-- <https://www.youtube.com/user/Computerphile> (Videos all about computers and computer stuff)
+- <https://www.youtube.com/user/Computerphile> (All about computers and computer stuff)
 - <https://www.youtube.com/user/wesbos> (HTML, CSS, JavaScript and WordPress web development tutorials!)
 - <https://www.youtube.com/user/LevelUpTuts> (free video tutorials created, recorded, edited, published and maintained by Scott Tolinski)
 - <https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ> (An open source community of busy people who learn to code and build projects for nonprofits)
