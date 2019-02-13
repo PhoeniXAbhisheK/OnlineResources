@@ -1,6 +1,6 @@
 ## Here is a list of few online resources that I use commonly that help me save time, and learn about new technologies.
 
-### If you also have some to add to these, please feel free to open a Pull Request :v:
+### If you have some to add to these, please feel free to open a Pull Request :v:
 
 ---
 
