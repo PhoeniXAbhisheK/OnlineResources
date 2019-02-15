@@ -17,6 +17,7 @@
 
 ### Online Courses/Tutorials :computer:
 
+- <https://www.codecademy.com/>
 - <https://cssgridgarden.com/> (learn CSS Grid)
 - <https://www.freecodecamp.org/> (Learn to code for free)
 - <https://scrimba.com/> (learn via interactive screencasts)
