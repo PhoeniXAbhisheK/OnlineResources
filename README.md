@@ -36,7 +36,7 @@
 - <https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg> The Net Ninja (Black-belt your development skills. Tutorials on Node.js, JavaScript, CSS, HTML, Vue.js, React and much more...)
 - <https://www.youtube.com/user/TechGuyWeb> (Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more)
 
-### Website analysis :bar_chart:
+### Website analysis sites :bar_chart:
 
 - <https://gtmetrix.com/>
 - <https://tools.pingdom.com/>
