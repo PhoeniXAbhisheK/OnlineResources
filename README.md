@@ -32,7 +32,8 @@
 - <https://www.youtube.com/user/Computerphile> (All about computers and computer stuff)
 - <https://www.youtube.com/user/wesbos> (HTML, CSS, JavaScript and WordPress web development tutorials!)
 - <https://www.youtube.com/user/LevelUpTuts> (free video tutorials created, recorded, edited, published and maintained by Scott Tolinski)
-- <https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ> (An open source community of busy people who learn to code and build projects for nonprofits)
+- <https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ> freeCodeCamp (An open source community of busy people who learn to code and build projects for nonprofits)
+- <https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg> The Net Ninja (Black-belt your development skills. Tutorials on Node.js, JavaScript, CSS, HTML, Vue.js, React and much more...)
 - <https://www.youtube.com/user/TechGuyWeb> (Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more)
 
 ### Website analysis :bar_chart:
