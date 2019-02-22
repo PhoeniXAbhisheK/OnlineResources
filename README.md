@@ -4,7 +4,7 @@
 
 ---
 
-###  Reference/Reading websites :books:
+### Reference/Reading websites :books:
 
 - <https://hackernoon.com/>
 - <https://explainshell.com/>
