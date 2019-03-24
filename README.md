@@ -55,6 +55,7 @@
 
 - <https://playcode.io/> (Code Sandbox. Online Code Editor)
 - <https://emojipedia.org/> (One-stop solution to all emojis)
+- <https://www.webfx.com/tools/emoji-cheat-sheet/> (Emoji cheat sheet)
 - <https://source.unsplash.com/> (free images, also has an API)
 - <https://github.com/octref/polacode/> (Polacode: Polaroid for your code)
 - <https://cssgradient.io/gradient-backgrounds/> (quick cool gradients, with corresponding css code)
