@@ -1,4 +1,4 @@
-## Here is a list of few online resources that I use regularly that help me save time, and learn whats new in tech.
+## Here is a list of few online resources that I use regularly that help me save time, and learn what's new in tech.
 
 ### If you have some to add, please feel free to open a Pull Request :v:
 
