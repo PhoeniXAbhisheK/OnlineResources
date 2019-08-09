@@ -8,7 +8,7 @@
 
 - <https://hackernoon.com/>
 - <https://explainshell.com/>
-- <https://medium.freecodecamp.org/>
+- <https://www.freecodecamp.org/news/>
 - <https://medium.com/topic/technology>
 - <https://developers.google.com/web/fundamentals/>
 - <https://tympanus.net/codrops/> (web design and development blog)
