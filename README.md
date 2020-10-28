@@ -59,7 +59,7 @@
 - <https://source.unsplash.com/> (free images, also has an API)
 - <https://github.com/octref/polacode/> (Polacode: Polaroid for your code)
 - <https://cssgradient.io/gradient-backgrounds/> (quick cool gradients, with corresponding css code)
-- <https://designer.mocky.io/> (quick custom API responses, on-the-go)
+- <https://designer.mocky.io/> (quick custom API responses, on-the-go. Thanks to [Chirag Paryani](https://github.com/cparyani) for this)
 
 ### Cheatsheets(That actually help) :scroll:
 
