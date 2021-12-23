@@ -60,6 +60,7 @@
 - <https://github.com/octref/polacode/> (Polacode: Polaroid for your code)
 - <https://cssgradient.io/gradient-backgrounds/> (quick cool gradients, with corresponding css code)
 - <https://designer.mocky.io/> (quick custom API responses, on-the-go. Thanks to [Chirag Paryani](https://github.com/cparyani) for this)
+- <https://www.bigbinary.com/conversation/> (A good guide for HTTP status code interpretation. Thanks to [Hardik Jain](https://github.com/hardikhappy) for this)
 
 ### Cheatsheets(That actually help) :scroll:
 
