@@ -59,6 +59,7 @@
 - <https://source.unsplash.com/> (free images, also has an API)
 - <https://github.com/octref/polacode/> (Polacode: Polaroid for your code)
 - <https://cssgradient.io/gradient-backgrounds/> (quick cool gradients, with corresponding css code)
+- <https://latentflip.com/loupe> (Visualise JS Event Loop in real-time.[Source](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf))
 - <https://designer.mocky.io/> (quick custom API responses, on-the-go. Thanks to [Chirag Paryani](https://github.com/cparyani) for this)
 - <https://www.bigbinary.com/conversation/> (A good guide for HTTP status code interpretation. Thanks to [Hardik Jain](https://github.com/hardikhappy) for this)
 
